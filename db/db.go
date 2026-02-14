@@ -5,8 +5,8 @@ package db
 
 import (
 	"errors"
-	"github.com/akhil/golang-csrf-project/db/models"
-	"github.com/akhil/golang-csrf-project/randomstrings"
+	"github.com/DhairyaDoshi7489/Sentinel/db/models"
+	"github.com/DhairyaDoshi7489/Sentinel/randomstrings"
 	"golang.org/x/crypto/bcrypt"
 	"log"
 )
