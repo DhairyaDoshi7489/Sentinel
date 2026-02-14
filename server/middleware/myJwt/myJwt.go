@@ -3,8 +3,8 @@ package myJwt
 import (
 	"crypto/rsa"
 	"errors"
-	"github.com/akhil/golang-csrf-project/db"
-	"github.com/akhil/golang-csrf-project/db/models"
+	"github.com/DhairyaDoshi7489/Sentinel/db"
+	"github.com/DhairyaDoshi7489/Sentinel/db/models"
 	jwt "github.com/dgrijalva/jwt-go"
 	"io/ioutil"
 	"log"
