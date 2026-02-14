@@ -1,7 +1,7 @@
 package models
 
 import (
-	"github.com/akhil/golang-csrf-project/randomstrings"
+	"github.com/DhairyaDoshi7489/Sentinel/randomstrings"
 	jwt "github.com/dgrijalva/jwt-go"
 	"time"
 )
